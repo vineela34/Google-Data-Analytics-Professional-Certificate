@@ -13,4 +13,11 @@ Platforms and tools you will learn include: Presentations, Spreadsheets, SQL, Ta
 
 In addition to expert training and hands-on projects, you'll complete a case study that you can share with potential employers to showcase your new skill set.
 
+1. Foundations: Data, Data, Everywhere[https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics]
+    •	Introducing data analytics
+    •	Thinking analytically
+    •	Exploring the wonderful world of data
+    •	Setting up a data toolbox
+    •	Discovering data career possibilities
+    •	Course Challenge
 
